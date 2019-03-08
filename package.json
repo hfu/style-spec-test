@@ -1,0 +1,23 @@
+{
+  "name": "style-spec-test",
+  "version": "1.0.0",
+  "description": "just testing @mapbox/mapbox-gl-style-spec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hfu/style-spec-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/hfu/style-spec-test/issues"
+  },
+  "homepage": "https://github.com/hfu/style-spec-test#readme",
+  "dependencies": {
+    "@mapbox/mapbox-gl-style-spec": "^13.6.0"
+  }
+}
